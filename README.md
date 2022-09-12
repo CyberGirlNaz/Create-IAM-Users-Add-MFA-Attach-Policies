@@ -1,2 +1,11 @@
 # Create-IAM-Users-Add-MFA-Attach-Policies
 ![1](https://user-images.githubusercontent.com/112990296/189757850-c96f0c9d-28d3-4e6f-8109-d84fea4b4033.JPG)
+![2](https://user-images.githubusercontent.com/112990296/189758136-3bb1a7b9-46aa-4f6e-9026-ff17f9f72960.JPG)
+![3](https://user-images.githubusercontent.com/112990296/189758145-6b52ed2b-876a-41e8-81d5-39d5cfe6f5ec.JPG)
+![4](https://user-images.githubusercontent.com/112990296/189758156-a2fb30ae-24f7-4c23-a75d-b6d15a75890c.JPG)
+![5](https://user-images.githubusercontent.com/112990296/189758174-e2ddee7a-8b0b-4c16-9d59-7fbbd7a0c9d1.JPG)
+![6](https://user-images.githubusercontent.com/112990296/189758212-a0d2bdd0-2bc3-45f8-adb8-17941c911ef4.JPG)
+![7](https://user-images.githubusercontent.com/112990296/189758411-735d469e-0b68-432c-9a7f-03eaac9653e0.JPG)
+![8](https://user-images.githubusercontent.com/112990296/189758427-66832075-e4a3-49d6-b75a-41997321aec9.JPG)
+![9](https://user-images.githubusercontent.com/112990296/189758438-04cedf53-c678-4e30-a062-4acca7f32644.JPG)
+![10](https://user-images.githubusercontent.com/112990296/189758453-43923d21-a232-4de7-a286-e9516b229174.JPG)
