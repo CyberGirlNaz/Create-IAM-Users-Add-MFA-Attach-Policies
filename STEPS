@@ -1,0 +1,35 @@
+Create IAM Users, Add MFA, Attach Policies
+
+Steps:
+1) Open your AWS Console
+2) Go to IAM (you can use the search box)
+3) Go to *user* by the right pane
+4) Click on *Add user*
+5) Give user a name and check credential type, ensure to set custom password and set
+ it to *require to chnge password* if you want to or if its company policy
+6) Give permission (click on attach existing policy)
+7) Scroll through the policies and give access that the user should have.
+8) Click on next and add tag (tag helps you have data on why you created that user)
+9) Goahead to review and click on create user.
+10) Ensure you do not exit, please download the csv file so you can give the user their unique log in link
+11) GO ahead to close.
+
+   **creation of groups**
+1) Open your AWS Console
+2) Go to IAM (you can use the search box)
+3) Go to *user groups* by the right pane,click it
+4) Click on create group
+5) Name group, add user/s, attach permission.
+6) Click on create group
+
+  **MFA settings**
+1) Open your AWS Console
+2) Go to IAM (you can use the search box)
+3) Go to *user* by the right pane,click it
+4) click on the particular user you want to enable MFA for
+5) click on security credentials
+6) Go to Assigned MFA device, click on manage
+7) Click on Virtual MFA device
+8) Use google authenticator app to scan the QR code
+9) Fill the boxes with two consecutive codes
+10) Ensure to keep the QR code safe
